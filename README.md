@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hydromanhattan
+- 👋 Hi, I’m @jupiter237
 - 👀 I’m interested in making games and fun apps 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
